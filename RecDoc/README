@@ -1,0 +1,5 @@
+Development of recommendation document
+
+To complile the document just do make
+
+if it fails due to a missing pacakge you probably need to download the revtex4.1 package https://www.ctan.org/pkg/revtex4-1?lang=en
